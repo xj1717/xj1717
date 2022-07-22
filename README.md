@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on community detection via demension reduction.
+- 🌱 I’m currently learning statistics, machine learning, algebra.
+- 👯 I’m looking to collaborate on statistics research.
+
+
 <!--
 **xj1717/xj1717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
